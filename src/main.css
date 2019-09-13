@@ -1,0 +1,22 @@
+body{
+    background-color: green;
+}
+.main{
+    background-color: yellow;
+    border: 5px dashed black;
+    text-align: center;
+}
+#main{
+    position:absolute;
+    width: 200px;
+    left: 50%;
+    top: 50%;
+    margin-left: -100px;
+}
+.main .number {
+    background-color: red;
+}
+.number{
+    width: 50%;
+    background-color: white;
+}
